@@ -1,0 +1,6 @@
+alice jb alice@gmail 98765345 alice alice123 Admin
+bob jeram bob@hotmail 27389493 bob bob123 SM
+cindy johor cindy@gmail 19283749 cindy cindy123 PM
+dolla england dolla@gmail 1939475 dolla dolla123 Admin
+emma jeram emma@gmail 18384933 emma emma123 Admin
+gina penng gina@hotmail 21994943 fiona fiona123 Admin
